@@ -14,6 +14,7 @@ public class T8 {
             value = scanner.nextInt();
         }
         */
+        int value = 0;
         do {
             System.out.println("Enter a number: ");
             value = scanner.nextInt();
