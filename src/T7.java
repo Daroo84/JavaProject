@@ -3,9 +3,12 @@ import java.util.Scanner;
 public class T7 {
     public static void main(String[] args) {
 
+        // Crate scanner object
         Scanner input = new Scanner(System.in);
+
+
         System.out.println("Enter text");
-        //Wait for the user to enter a line of text
+        //Wait for the user to entdfer a line of text
         String line = input.nextLine();
 
         System.out.println("Enter a number");

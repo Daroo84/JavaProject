@@ -5,7 +5,7 @@ public class T4 {
 
         while(value < 10)
         {
-            System.out.println("Hello");
+            System.out.println("Hello " + value);
 
             value = value + 1;
         }
