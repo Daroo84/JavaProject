@@ -11,7 +11,7 @@ public class Task3 {
         System.out.println("Podaj wyraz");
         String word =scanner.next();
         int length = word.length();
-        System.out.println(word.charAt(length-2r));
+        System.out.println(word.charAt(length-2));
 
         //4 17
         //2*2 = 4

@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ac2fd8-d6fd-41b0-a45e-7c76e1e40f50" name="Default" comment="base package">
-      <change afterPath="$PROJECT_DIR$/src/T10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeacademy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeacademy/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeacademy/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Project/T4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Project/T4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Project/T7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Project/T7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmingTask/StackTraceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmingTask/StackTraceExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,8 +88,21 @@
       <file leaf-file-name="Task3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/codeacademy/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackTraceExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmingTask/StackTraceExample.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/codeacademy/Main.java" />
         <option value="$PROJECT_DIR$/src/codeacademy/Task1.java" />
         <option value="$PROJECT_DIR$/src/codeacademy/Task3.java" />
+        <option value="$PROJECT_DIR$/src/programmingTask/StackTraceExample.java" />
       </list>
     </option>
   </component>
@@ -178,6 +184,12 @@
               <item name="Java Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codeacademy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmingTask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,13 +230,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="T10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T10" />
+    <configuration name="StackTraceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmingTask.StackTraceExample" />
       <module name="Java Project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmingTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="T9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T9" />
+    <configuration name="T10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T10" />
       <module name="Java Project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -292,19 +310,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.T9" />
       <item itemvalue="Application.T10" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Task1" />
       <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.StackTraceExample" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.StackTraceExample" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.T10" />
-        <item itemvalue="Application.T9" />
       </list>
     </recent_temporary>
   </component>
@@ -336,19 +354,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.496875" weight="0.32225913" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.496875" visible="true" weight="0.32225913" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.503125" side_tool="true" weight="0.31740975" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32779622" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32225913" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32225913" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49788135" weight="0.33444077" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2916201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2916201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -397,13 +415,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="base package" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/T7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/T8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -709,10 +720,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeacademy/Task3.java">
+    <entry file="file://$PROJECT_DIR$/src/programmingTask/StackTraceExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeacademy/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
