@@ -2,14 +2,22 @@ package codeacademy;
 
 public class Main {
 
+    int sum(int a, int b){
+        return a+b;
+    }
+    static int multiply(int a, int b){
+        return a*b;
+    }
+
     public static void main(String[] args) {
 
-        String name = "Mike";
-        System.out.println(name);
+        //without static
+        Main main = new Main();
+        System.out.println(main.sum(5,8));
+        System.out.println(multiply(9,7));
 
-
-        System.out.println(name.length()); // string length
-        System.out.println(name.charAt(0)); // printing first letter
+        int score = (multiply(10,9));
+        System.out.println(score);
 
     }
 }
