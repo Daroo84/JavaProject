@@ -27,6 +27,6 @@ public class T12 {
         String [][] words = new String[2][];
         System.out.println(words[0]);
         words[0] = new String[3];
-        words[][]
+        words[0][1] = "";
     }
 }
