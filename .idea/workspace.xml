@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ac2fd8-d6fd-41b0-a45e-7c76e1e40f50" name="Default" comment="base package">
-      <change afterPath="$PROJECT_DIR$/src/mainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JPTutorials/JPT19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JPTutorials/JPT20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JPTutorials/JPT21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JPTutorials/randomGuessGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,24 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="T10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/T10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="27" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="T11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/T11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="T12.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/T12.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="player.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="player.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/player.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -71,6 +56,45 @@
                 <element signature="e#303#304#0" expanded="true" />
                 <element signature="e#331#332#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JPT19.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JPT20.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT20.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JPT21.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="randomGuessGame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JPTutorials/randomGuessGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -102,33 +126,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zoo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codeacademy/Zoo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#305#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tictac/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -186,13 +183,17 @@
         <option value="$PROJECT_DIR$/src/T12.java" />
         <option value="$PROJECT_DIR$/src/player.java" />
         <option value="$PROJECT_DIR$/src/mainClass.java" />
+        <option value="$PROJECT_DIR$/src/JPTutorials/JPT19.java" />
+        <option value="$PROJECT_DIR$/src/JPTutorials/JPT20.java" />
+        <option value="$PROJECT_DIR$/src/JPTutorials/JPT21.java" />
+        <option value="$PROJECT_DIR$/src/JPTutorials/randomGuessGame.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4797" />
-    <option name="width" value="956" />
-    <option name="height" value="1080" />
+    <option name="width" value="965" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,13 +219,7 @@
               <item name="Java Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java Project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codeacademy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="programmingTask" type="462c0819:PsiDirectoryNode" />
+              <item name="JPTutorials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,27 +247,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mainClass (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tictac.Main" />
+  <component name="RunManager" selected="Application.JPT21">
+    <configuration name="JPT19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JPTutorials.JPT19" />
       <module name="Java Project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tictac.*" />
+          <option name="PATTERN" value="JPTutorials.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="T11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T11" />
+    <configuration name="JPT20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JPTutorials.JPT20" />
       <module name="Java Project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JPTutorials.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="T12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T12" />
+    <configuration name="JPT21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JPTutorials.JPT21" />
       <module name="Java Project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JPTutorials.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -332,19 +339,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.T11" />
-      <item itemvalue="Application.T12" />
       <item itemvalue="Application.mainClass" />
       <item itemvalue="Application.mainClass (1)" />
+      <item itemvalue="Application.JPT19" />
+      <item itemvalue="Application.JPT20" />
+      <item itemvalue="Application.JPT21" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JPT21" />
+        <item itemvalue="Application.JPT20" />
+        <item itemvalue="Application.JPT19" />
         <item itemvalue="Application.mainClass (1)" />
         <item itemvalue="Application.mainClass" />
-        <item itemvalue="Application.T12" />
-        <item itemvalue="Application.T11" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +378,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4797" y="0" width="956" height="1080" extended-state="0" />
+    <frame x="4797" y="0" width="965" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -383,12 +390,12 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.503125" side_tool="true" weight="0.31740975" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32779622" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32131496" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33554816" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49788135" weight="0.33444077" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29799107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2950276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -437,16 +444,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="base package" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Employee.java" />
-    <entry file="file://$PROJECT_DIR$/src/T1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Employee.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pack/base/TestBaseSetup.java" />
     <entry file="file://$PROJECT_DIR$/src/T2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -776,6 +773,37 @@
             <element signature="e#303#304#0" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/randomGuessGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
