@@ -11,6 +11,7 @@ public class mainClass {
         x.name = "John";
         x.x = 4;
 
+
         System.out.println(sr.name + sr.x);
         System.out.println(x.name + x.x);
     }
