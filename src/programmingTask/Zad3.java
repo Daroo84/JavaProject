@@ -22,7 +22,7 @@ public class Zad3 {
 
 */
 
-        boolean ifCorrect;
+        boolean ifCorrect = true;
         while(!ifCorrect) {
             try {
                 index = Integer.parseInt(read.readLine());
