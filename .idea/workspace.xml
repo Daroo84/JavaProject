@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ac2fd8-d6fd-41b0-a45e-7c76e1e40f50" name="Default" comment="base package">
-      <change afterPath="$PROJECT_DIR$/src/JPTutorials/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JPTutorials/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JPTutorials/apples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JPTutorials/tuna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmingTask/Zad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JPTutorials/mainClassJPT31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JPTutorials/mainClassJPT31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmingTask/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmingTask/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JPTutorials/JPB21.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,24 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Zad.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmingTask/Zad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainClassJPT31.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JPTutorials/mainClassJPT31.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NameJPT31.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JPTutorials/NameJPT31.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,17 +78,39 @@
       <file leaf-file-name="apples.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JPTutorials/apples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tuna.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JPTutorials/tuna.java">
+      <file leaf-file-name="JPT21.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT21.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JPB21.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPB21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tuna.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JPTutorials/tuna.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codeacademy/Frog.java" />
         <option value="$PROJECT_DIR$/src/codeacademy/Cat.java" />
         <option value="$PROJECT_DIR$/src/codeacademy/Dog.java" />
         <option value="$PROJECT_DIR$/src/codeacademy/Zoo.java" />
@@ -185,13 +181,15 @@
         <option value="$PROJECT_DIR$/src/programmingTask/Zad.java" />
         <option value="$PROJECT_DIR$/src/JPTutorials/Ex1.java" />
         <option value="$PROJECT_DIR$/src/JPTutorials/Ex2.java" />
-        <option value="$PROJECT_DIR$/src/JPTutorials/apples.java" />
         <option value="$PROJECT_DIR$/src/JPTutorials/tuna.java" />
+        <option value="$PROJECT_DIR$/src/JPTutorials/apples.java" />
+        <option value="$PROJECT_DIR$/src/JPTutorials/JPB21.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4752" />
+    <option name="y" value="40" />
     <option name="width" value="1008" />
     <option name="height" value="1040" />
   </component>
@@ -402,7 +400,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4752" y="0" width="1008" height="1040" extended-state="0" />
+    <frame x="4752" y="40" width="1008" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -414,12 +412,12 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.503125" side_tool="true" weight="0.31740975" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32779622" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33554816" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33554816" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49788135" weight="0.33444077" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28164557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28164557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -468,20 +466,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="base package" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JPTutorials/randomGuessGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/T4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -846,17 +830,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JPTutorials/apples.java">
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/tuna.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JPTutorials/tuna.java">
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/apples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPT21.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JPTutorials/JPB21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
