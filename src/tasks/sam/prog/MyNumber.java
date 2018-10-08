@@ -1,39 +1,39 @@
 package tasks.sam.prog;
-
+/*
 public class MyNumber {
-    private double number;
+    private double n;
 
     public double getNumber() {
-        return number;
+        return n;
     }
 
-    public void setNumber(double number) {
-        this.number = number;
+    public void setNumber(double n) {
+        this.n = n;
     }
     public boolean isOdd(){
-        if (number % 2 != 0){
-            System.out.println("Number " + number + "is not even");
+        if (n % 2 != 0){
+            System.out.println("Number " + n + "is not even");
         }
         return true;
     }
     public boolean isEven(){
-        if (number % 2 == 0) {
-            System.out.println("Number " + number + "is even.");
+        if (n % 2 == 0) {
+            System.out.println("Number " + n + "is even.");
         }
         return false;
     }
     public double sqrt(){
-        double result = Math.sqrt(number);
+        double result = Math.sqrt(n);
         return result;
     }
     public double pow(MyNumber x){
-        new MyNumber(x.number);
-        double result = (number + x.number);
+        new MyNumber(x.n);
+        double result = Math.pow(n + x.n);
         return result;
     }
     public double subtract(MyNumber x){
-        new MyNumber(x.number);
-        double result = (number - x.number);
+        new MyNumber(x.n);
+        double result = (n - x.n);
         return result;
     }
     @Override
@@ -42,3 +42,4 @@ public class MyNumber {
     }
 
 }
+*/

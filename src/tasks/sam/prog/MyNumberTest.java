@@ -1,8 +1,8 @@
 package tasks.sam.prog;
-
+/*
 public class MyNumberTest {
     public static void main(String[] args) {
-        MyNumber myNumber = new MyNumber(2);
+        MyNumber myNumber = new MyNumber(4);
 
         System.out.println(myNumber.toString());
         myNumber.isEven();
@@ -12,3 +12,4 @@ public class MyNumberTest {
         System.out.println("Substract: " +myNumber.subtract(myNumber));
     }
 }
+*/
