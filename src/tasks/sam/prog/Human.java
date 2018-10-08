@@ -57,8 +57,13 @@ public class Human {
         setAge(age);
         setHeight(height);
         setWeight(weight);
-        
+        setName(name);
+        setSex(sex);
 
+
+    }
+    public String toString(){
+        return "Age: " + getAge()+"\nWeight: " + getWeight() + "\nHeight: " + getHeight() + "\nName: " + getName() + "\nSex: " + getSex();
     }
 }
 
